@@ -1,12 +1,12 @@
 {
-  "export_job_id": "59f8d00f-2f19-4919-a946-541f17c13c8f",
+  "export_job_id": "fd67a842-2c4e-4c06-87d1-e24499359c32",
   "id_short": 798611,
-  "published_at": "2026-04-14T19:26:56Z",
+  "published_at": "2026-04-19T07:39:38Z",
   "repo_name": "top-50-restaurant-category-dominators-in-ohio-us-sample-798611",
   "sample_asset_name": "beamstation_798611_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/798611/beamstation_798611_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "6c241cd6dfcf35f046adbcaa1c4446318e2371c195e293d21aeec7bea36df43b",
-  "sample_size_bytes": 36479,
-  "total_records": 50
+  "sample_records": 4,
+  "sample_sha256": "b257a063e03ba50ac3f6e266332058fee930b53ebe24c0000616674171531346",
+  "sample_size_bytes": 32975,
+  "total_records": 49
 }
